@@ -5,7 +5,7 @@
 
 <p align="center">I'm Software Engineer and Co-Founder at <a href="https://github.com/OyunGG" target="_blank">OyunGG</a>.<br/></p>
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center" width="28" /> What I currently do</h2></summary>
+<summary><h2>👨🏻‍💻 What I currently do</h2></summary>
 
 - :house: I'm currently living in **Antalya, Turkey.**
 - 💻 I'm currently working as a **Software Engineer.**
@@ -15,7 +15,7 @@
 - 📚 I’m preparing to **write a blog.**
 
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center" width="28" /> My Tools</h2></summary>
+<summary><h2>🔭 Technologies & Tools</h2></summary>
 
 <div>
 <img alt="Languages" src="https://img.shields.io/badge/-Languages-000000?style=for-the-badge&logo=Plex&logoColor=white">
@@ -51,7 +51,7 @@
 <img src="https://img.shields.io/badge/Redis-D82A20?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
 </div>
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> To connect with me</h2></summary>
+<summary><h2>🤙🏻 Reach me on</h2></summary>
 
 <div>
 <a href="https://twitter.com/ferhatbstnc" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
@@ -59,3 +59,14 @@
 <a href="https://stackoverflow.com/users/7369800" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 <a href="https://github.com/ferhatbostanci" target="_blank"><img alt="Visits Badge" src="https://badges.pufler.dev/visits/ferhatbostanci/ferhatbostanci?style=for-the-badge"></a>
 </div>
+
+<br>
+
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ferhatbostanci&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatbostanci&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+</details>
