@@ -28,19 +28,20 @@
 </div>
 
 <div>
-<img alt="Frontend" src="https://img.shields.io/badge/-Frontend-000000?style=for-the-badge&logo=Plex&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
-</div>
-
-<div>
 <img alt="Backend" src="https://img.shields.io/badge/-Backend-000000?style=for-the-badge&logo=Plex&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
 <img src="https://img.shields.io/badge/Symfony-46AADD?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+</div>
+
+<div>
+<img alt="Frontend" src="https://img.shields.io/badge/-Frontend-000000?style=for-the-badge&logo=Plex&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
+<img src="https://img.shields.io/badge/Nuxt.js-64B587?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js">
 </div>
 
 <div>
@@ -58,8 +59,6 @@
 <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS">
-<img src="" alt="">
-<img src="" alt="">
 </div>
 
 <summary><h2>🤙🏻 Reach me on</h2></summary>
@@ -68,6 +67,7 @@
 <a href="https://twitter.com/ferhatbstnc" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/ferhatbostanci" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://stackoverflow.com/users/7369800" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<a href="https://dev.to/ferhatbostanci" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-373535?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 <a href="https://github.com/ferhatbostanci" target="_blank"><img alt="Visits Badge" src="https://badges.pufler.dev/visits/ferhatbostanci/ferhatbostanci?style=for-the-badge"></a>
 </div>
 
