@@ -5,7 +5,7 @@
 
 <p align="center">I'm Software Engineer and Co-Founder at <a href="https://github.com/OyunGG" target="_blank">OyunGG</a>.<br/></p>
 
-<summary><h2>👨🏻‍💻 What I currently do</h2></summary>
+## 👨🏻‍💻 What I currently do
 
 - :house: I'm currently living in **Antalya, Turkey.**
 - 💻 I'm currently working as a **Software Engineer.**
@@ -15,7 +15,7 @@
 - 📚 I’m preparing to **write a blog.**
 
 
-<summary><h2>🔭 Technologies & Tools</h2></summary>
+## 🔭 Technologies & Tools
 
 <div>
 <img alt="Languages" src="https://img.shields.io/badge/-Languages-000000?style=for-the-badge&logo=Plex&logoColor=white">
@@ -61,7 +61,7 @@
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS">
 </div>
 
-<summary><h2>🤙🏻 Reach me on</h2></summary>
+## 🤙🏻 Reach me on
 
 <div>
 <a href="https://twitter.com/ferhatbstnc" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
